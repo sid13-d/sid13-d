@@ -47,10 +47,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid13-d&show_icons=true&locale=en" alt="sid13-d" /></p>
 
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid13-d&" alt="sid13-d" />
-    
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid13-d&" alt="sid13-d" /> 
 </div>
-
-<img src="./assets/Octate1.png" alt="octate" height="200">
+  <img src="./assets/Octate1.png" alt="octate" height="200">
 <img src="./assets/Octate3.png" alt="octate" height="200">
+
