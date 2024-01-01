@@ -30,6 +30,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid13-d" alt="sid13-d" /></a> </p>
 
 <!-- add firegif bellow -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
 <img src="./assets/fire.gif" alt="fire" width="100%" height="auto">
 <img src="./assets/fire.gif" alt="fire" width="100%" height="auto">
 <img src="./assets/fire.gif" alt="fire" width="100%" height="auto">
