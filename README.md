@@ -1,11 +1,12 @@
-<!-- Create a msterhead for me -->
 
-
+<!-- adding a banner  -->
+<img src="./assets/banner.gif" alt="banner" width="100%" height="auto">
 <h1 align="center">Hi 👋, I'm Siddhesh Shinde</h1>
 <h3 align="center">I am an enthusiast, eager to learn programmer. I just like to goof around new technologies and try each and every thing that is there. Just keep learning</h3>
 
-<img align="right" src="./assets/sideImg.gif" alt="Coding" width="400" margin="10px">
- 🌱 I’m currently learning **MERN Stack**
+<img align="right" src="./assets/sideImg.gif" alt="Coding" width="400" style="margin: 30px;">
+
+- 🌱 I’m currently learning **MERN Stack**
 
 <!-- - 👨‍💻 All of my projects are available at [here it is](here it is) -->
 
@@ -26,7 +27,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid13-d" alt="sid13-d" /></a> </p>
 
--
+
 
 
 
