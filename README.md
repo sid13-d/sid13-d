@@ -5,12 +5,7 @@
 <h3 align="center">I am an enthusiast, eager to learn programmer. I just like to goof around new technologies and try each and every thing that is there. Just keep learning</h3>
 
 <img align="right" src="./assets/sideImg.gif" alt="Coding" width="400">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid13-d&label=Profile%20views&color=0e75b6&style=flat" alt="sid13-d" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid13-d" alt="sid13-d" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **MERN Stack**
 
 <!-- - 👨‍💻 All of my projects are available at [here it is](here it is) -->
 
@@ -19,6 +14,11 @@
 - 📫 How to reach me **shindesiddhesh13062003@gmail.com**
 
 <!-- - 📄 Know about my experiences [hi](hi) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid13-d&label=Profile%20views&color=0e75b6&style=flat" alt="sid13-d" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid13-d" alt="sid13-d" /></a> </p>
+
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
