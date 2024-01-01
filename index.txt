@@ -1,6 +1,3 @@
-<!-- Create a msterhead for me -->
-
-
 <h1 align="center">Hi 👋, I'm Siddhesh Shinde</h1>
 <h3 align="center">I am an enthusiast, eager to learn programmer. I just like to goof around new technologies and try each and every thing that is there. Just keep learning</h3>
 
@@ -12,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-<!-- - 👨‍💻 All of my projects are available at [here it is](here it is) -->
+- 👨‍💻 All of my projects are available at [here it is](here it is)
 
 - 💬 Ask me about **react, java, express, node, sql**
 
 - 📫 How to reach me **shindesiddhesh13062003@gmail.com**
 
-<!-- - 📄 Know about my experiences [hi](hi) -->
+- 📄 Know about my experiences [hi](hi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
