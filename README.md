@@ -32,9 +32,9 @@
 <!-- add firegif bellow -->
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <img src="./assets/fire.gif" alt="fire" width="200" />
-   <img src="./assets/fire.gif" alt="fire" width="200" />
-    <img src="./assets/fire.gif" alt="fire" width="200" />
+  <img src="./assets/fireanimation.gif" alt="fire" width="200" />
+   <img src="./assets/fireanimation.gif" alt="fire" width="200" />
+    <img src="./assets/fireanimation.gif" alt="fire" width="200" />
   </div>
 
 
