@@ -1,6 +1,6 @@
 
 <!-- adding a banner  -->
-<img src="./assets/banner.gif" alt="banner" width="100%" height="auto">
+<img src="./assets/banner.gif" alt="banner" width="100%" height="400px">
 <h1 align="center">Hi 👋, I'm Siddhesh Shinde</h1>
 <h3 align="center">I am an enthusiast, eager to learn programmer. I just like to goof around new technologies and try each and every thing that is there. Just keep learning</h3>
 
