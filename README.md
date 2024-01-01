@@ -50,8 +50,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid13-d&" alt="sid13-d" /> 
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; ">
-<img src="./assets/Octate1.png" alt="octate" height="200" margin-left: 80px>
-<img src="./assets/Octate3.png" alt="octate" height="200">
+
+<img align="center" src="./assets/Octate3.png" alt="octate" height="360">
 </div>
 
 
